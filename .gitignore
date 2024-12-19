@@ -1,0 +1,37 @@
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local test files
+test_script.py
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+status.txt
+
+sprint_statistics.csv
+sprint_report_v2_bi.pbix
